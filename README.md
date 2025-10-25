@@ -1,6 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-### Name : Hari prasath P
-### Reg.No. : 212224230084
+### Name : Abhinav CS
+### Reg.No. : 21222040005
 ## AIM
 ## ALGORITHM:
 1. Start the program.
